@@ -1,1 +1,1 @@
-my first readme
+printing current working directory
