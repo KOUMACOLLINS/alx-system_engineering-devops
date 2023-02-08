@@ -1,2 +1,2 @@
 #!/bin/bash
-C-H
+M-x find-file
